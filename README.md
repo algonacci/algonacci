@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @algonacci
 - 👀 I’m interested in AI, IoT, UI/UX, DevOps, Cloud, WebDev, Machine Learning, Mobile Apps Development, etc.
-- 🌱 I’m currently learning HTML, CSS, Bootstrap 5, Sass, JavaScript, R Language, Python, and Dart
+- 🌱 I’m currently learning HTML, CSS, Bootstrap 5, Sass, JavaScript, R Language, Python, and Dart.
 - 💞️ I’m looking to collaborate on Start-up project.
 - 📫 How to reach me? You can DM me on twitter https://twitter.com/algonacci
 
