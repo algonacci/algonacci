@@ -11,6 +11,7 @@
 - https://organic-food-shop.netlify.app/
 - https://simple-blog-front-end.netlify.app/
 - https://algonacci.github.io/
+- https://simple-blog-mern.netlify.app/
 
 
 <!---
