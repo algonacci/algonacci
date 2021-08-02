@@ -6,7 +6,7 @@
 
 💻 My Portfolio:
 - https://frontend-bootcamps.netlify.app/
-- https://hefa-stores.000webhostapp.com/
+- https://hefa-stores.netlify.app/
 - https://citycode-id.netlify.app/
 - https://organic-food-shop.netlify.app/
 - https://simple-blog-front-end.netlify.app/
