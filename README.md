@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algonacci" alt="algonacci" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=algonacci&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <p align="left"> <a href="https://twitter.com/algonacci" target="blank"><img src="https://img.shields.io/twitter/follow/algonacci?logo=twitter&style=for-the-badge" alt="algonacci" /></a> </p>
 
 - 🔭 I’m currently working on [Travens](https://travens.id/)
