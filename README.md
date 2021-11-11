@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [Citycode](https://github.com/citycode-id)
 
-- 👀 I’m interested in **AI, IoT, UI/UX, DevOps, Cloud, Webdev & Web 3.0, Data Science, Machine & Deep Learning, Mobile Apps Development, Blockchain, Serverless, Gamedev, AR/VR, Robotics, etc.**
+- 👀 I’m interested in **AI, IoT, UI/UX, DevOps, Cloud, Webdev & Web 3.0, Data Science, Machine & Deep Learning, Mobile Apps Development, Blockchain, Open source projects, Serverless, Gamedev, AR/VR, Robotics, etc.**
 
 - 📝 I regularly write articles on [my blog.](https://blog-algonacci.vercel.app/)
 
