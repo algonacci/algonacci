@@ -11,4 +11,4 @@ interested in:
 - Internet of Things
 - Robotics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=algonacci&" alt="algonacci" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=algonacci&" alt="algonacci" />
