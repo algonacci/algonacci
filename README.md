@@ -1,5 +1,5 @@
 self proclaimed AI Specialist
-.
+
 interested in: 
 - Data Science
 - Machine Learning
