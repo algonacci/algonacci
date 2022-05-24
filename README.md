@@ -31,7 +31,7 @@ interested in:
 </p>
 
 # Tech Stacks
-<p align="center">
+<p align="left">
     <a href="https://www.arduino.cc" target="_blank"> <img src="https://raw.githubusercontent.com/algonacci/Free-CDN/main/ReadMe-Logo/mqtt.png" alt="MQTT" /> </a>
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
             alt="arduino" width="60" height="60" /> </a>
