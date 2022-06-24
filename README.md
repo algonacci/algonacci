@@ -59,6 +59,9 @@ interested in:
     <a href="https://flask.palletsprojects.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60"
             height="60" /> </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank"> <img
+            src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="150"
+            height="60" /> </a>
     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/algonacci/Free-CDN/main/ReadMe-Logo/tensorflow.png" alt="tensorflow"
             width="60" height="60" /> </a>
     <a href="https://pytorch.org/" target="_blank"> <img
