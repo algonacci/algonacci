@@ -7,6 +7,7 @@ interested in:
 - Natural Language Processing
 - Computer Vision
 - Reinforcement Learning
+- Social Network Analysis
 - Embedded System
 - Internet of Things
 - Robotics
