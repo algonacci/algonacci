@@ -1,6 +1,7 @@
 # self proclaimed AI Specialist
 
 interested in:
+- Business Intelligence
 - Data Science
 - Machine Learning
 - Deep Learning
