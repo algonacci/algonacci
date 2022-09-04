@@ -1,4 +1,4 @@
-# self proclaimed AI Specialist
+# oh hello!
 
 SWE wanna-be.
 
