@@ -1,6 +1,6 @@
 # oh hello!
 
-SWE wanna-be.
+SWE wanna-be, mostly backend.
 
 # Find me
 <p align="left">
