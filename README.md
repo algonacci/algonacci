@@ -1,6 +1,6 @@
 # oh hello!
 
-SWE wanna-be, mostly backend.
+not an engineer, just a coding hobbyist. mostly backend.
 
 # Find me
 <p align="left">
