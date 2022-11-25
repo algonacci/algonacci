@@ -1,6 +1,12 @@
 # oh hello!
 
-not an engineer, just a coding hobbyist. mostly backend.
+not an engineer, just a coding hobbyist.
+
+currently:
+- Express.js
+- React.js
+- Solidity
+- FastAPI
 
 # Find me
 <p align="left">
