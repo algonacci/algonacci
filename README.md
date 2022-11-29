@@ -3,6 +3,7 @@
 not an engineer, just a coding hobbyist.
 
 currently:
+- Flutter
 - Express.js
 - React.js
 - Solidity
