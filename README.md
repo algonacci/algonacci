@@ -3,6 +3,8 @@
 not an engineer, just a coding hobbyist.
 
 currently:
+- Tailwind
+- Native PHP
 - Flutter
 - Express.js
 - React.js
