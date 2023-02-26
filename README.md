@@ -1,6 +1,6 @@
 # oh hello!
 
-not an engineer, just a coding hobbyist.
+not an engineer or a scientist, just a coding hobbyist.
 
 currently:
 - Tailwind
