@@ -3,7 +3,10 @@
 not an engineer or a scientist, just a coding hobbyist.
 
 currently:
-- C
-- Algorithm and Data Structures
+- Tailwind
+- React
+- Golang
+- Laravel
+- Flutter
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=algonacci&" alt="algonacci" />
