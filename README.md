@@ -8,5 +8,7 @@ currently:
 - Golang
 - Laravel
 - Flutter
+- IoT
+- PyTorch
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=algonacci&" alt="algonacci" />
