@@ -3,7 +3,6 @@
 not an engineer or a scientist, just a coding hobbyist.
 
 currently:
-- Gin Gonic
 - Laravel
 - Flutter
 
