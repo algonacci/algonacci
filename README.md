@@ -1,1 +1,1 @@
-gatau wehh gue pusing :(
+gatau wehh gue pusing bet pusing :(
